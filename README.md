@@ -218,11 +218,19 @@ Contributions are **warmly welcomed**! Whether you want to:
 - 🐛 Fix bugs or report issues
 
 ### 🤖 AI Usage is 100% Encouraged!
-Feel free to use **AI coding assistants** (Antigravity, Claude, ChatGPT, GitHub Copilot, Cursor, etc.) to vibe-code your pull requests and features! 
+Feel free to use **AI coding assistants** (Antigravity, Claude, ChatGPT, GitHub Copilot, Cursor, etc.) to vibe-code your pull requests and features!
+
+Check out [**`AGENTS.md`**](AGENTS.md) for our dedicated **Agent & Developer Guide**, which documents:
+- Architecture map and design philosophy
+- Critical Tkinter threading and destruction gotchas
+- Step-by-step instructions for implementing new custom widgets
+- Testing and verification workflows
+
 1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/cool-widget`).
-3. Vibe-code your changes and test with `python main.py`.
-4. Submit a Pull Request.
+2. Read [**`AGENTS.md`**](AGENTS.md).
+3. Create your feature branch (`git checkout -b feature/cool-widget`).
+4. Vibe-code your changes and test with `python main.py`.
+5. Submit a Pull Request.
 
 ---
 
