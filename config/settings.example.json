@@ -1,0 +1,17 @@
+{
+    "x": 100,
+    "y": 100,
+    "alpha": 0.95,
+    "always_on_top": true,
+    "locked": false,
+    "theme_name": "obsidian",
+    "active_widget": "currency",
+    "refresh_rate_ms": 1000,
+    "currency_refresh_seconds": 30,
+    "currency_provider": "frankfurter",
+    "minimal_view": false,
+    "show_titlebar": true,
+    "window_size": "medium",
+    "scale_factor": 1.0,
+    "api_co_id_key": "YOUR_API_CO_ID_KEY_HERE"
+}

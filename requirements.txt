@@ -1,0 +1,4 @@
+# Core Python Tkinter and urllib are included with standard Python installations.
+# Optional dependencies:
+psutil>=5.9.0     # Optional: For reading real-time system CPU & memory in graph widgets
+requests>=2.31.0   # Optional: For HTTP requests (widget includes standard urllib fallback)
